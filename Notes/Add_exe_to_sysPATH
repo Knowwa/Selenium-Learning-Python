@@ -1,0 +1,5 @@
+1. Deactivate virtual Environment
+2. sudo mv /Path_of_chromedriver/ /usually: user/local/bin/
+
+use 
+ex) sudo mv /Users/noahzertuche/Downloads/chromedriver /usr/local/bin
